@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **seohyun319/seohyun319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🏫Major
-- Korean language and literature
-- IT Engineering
-- International Korean Education
 
-<h4><b>🔧Tech Stack</b></h3>
+## 🔥 Seohyun Kim 🥰   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseohyun319%2Fhit-counter&count_bg=%2345CDD0&title_bg=%23FF8394&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+- 🏫 Sookmyung Women's University
+- 🔬 Major
+    - Korean language and literature
+    - IT Engineering
+    - International Korean Education
+- 📫 seohyeon0319@sookmyung.ac.kr
+<br />
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp
@@ -43,8 +45,17 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Miro-ffd02f?style=flat-square&logo=Miro&logoColor=black"/>
 </p>
 
-</br></br>
 
+### 🏇 ****Experience****
+
+| Name | Role | Period |
+| --- | --- | --- |
+| [PIROGRAMMING](https://pirogramming.com/) | 14th Member | 2020.12 ~ 2020.02 |
+| [PIROGRAMMING](https://pirogramming.com/) | 15th Education team | 2021.06 ~ 2021.08 |
+| [SOLUX](https://solux.tistory.com/) | 26th Mentor, Seminar team | 2021.03 ~ 2022.02 |
+| [Google Developer Student Club](https://dsc.community.dev/sookmyung-womens-university/) | 2nd Sookmyung Member | 2021.08 ~ |
+| [ICPC Sinchon](https://icpc-sinchon.io/) | 22 Winter Algorithm Camp | 2022.01 ~ 2022.02 |
+
+</br>
 
 ![seohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyun319&theme=radical&show_icons=true)
-
