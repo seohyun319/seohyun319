@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔥 Seohyun Kim 🥰   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseohyun319%2Fhit-counter&count_bg=%2345CDD0&title_bg=%23FF8394&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-- 🏰 Company github: [seohyunPang](https://github.com/seohyunPang) - my recent contributions
+- 🏰 frontend developer at [Mathpang](https://mathpang.com/) (2022.10 ~ current)
 - 🏫 Sookmyung Women's University
 - 🔬 Major
     - Korean Language and Literature
@@ -59,10 +59,12 @@ Here are some ideas to get you started:
 | [PIROGRAMMING](https://pirogramming.com/) | 14th Member | 2020.12 ~ 2020.02 |
 | [PIROGRAMMING](https://pirogramming.com/) | 15th Education team | 2021.06 ~ 2021.08 |
 | [SOLUX](https://solux.tistory.com/) | 26th Mentor, Seminar team | 2021.03 ~ 2022.02 |
-| [Google Developer Student Club](https://dsc.community.dev/sookmyung-womens-university/) | 2nd Sookmyung Member | 2021.08 ~ |
+| [Google Developer Student Club](https://dsc.community.dev/sookmyung-womens-university/) | 2nd Sookmyung Member | 2021.08 ~ 2022.08 |
 | [ICPC Sinchon](https://icpc-sinchon.io/) | 22 Winter Algorithm Camp | 2022.01 ~ 2022.02 |
 
 </br>
 
 ![seohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyun319&theme=radical&show_icons=true)
 
+🏰 company github [seohyunPang](https://github.com/seohyunPang) - my recent contributions
+<img src="https://ghchart.rshah.org/seohyunPang" />
