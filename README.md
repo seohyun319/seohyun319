@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 -->
 
 ## 🔥 Seohyun Kim 🥰   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseohyun319%2Fhit-counter&count_bg=%2345CDD0&title_bg=%23FF8394&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-- 🏰 frontend developer at [Mathpang](https://mathpang.com/) (2022.10 ~ current)
-- 🏫 Sookmyung Women's University
+- 🏰 frontend developer at [Mathpang](https://mathpang.com/) (2022.10 ~ 2023.11)
+- 🏫 Sookmyung Women's University (2019.03 ~ 2023.08)
 - 🔬 Major
     - Korean Language and Literature
     - IT Engineering
     - International Korean Education
-- 📫 seohyeon0319@sookmyung.ac.kr
+- 📫 seohyunn0319@gmail.com
+- 📝 [blog](https://shmoong.tistory.com/)
 <br />
 
 <p>
@@ -48,7 +49,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Slack-4a154b?style=flat-square&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-a259ff?style=flat-square&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Miro-ffd02f?style=flat-square&logo=Miro&logoColor=black"/>
 </p>
 
 
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 | [PIROGRAMMING](https://pirogramming.com/) | 15th Education team | 2021.06 ~ 2021.08 |
 | [SOLUX](https://solux.tistory.com/) | 26th Mentor, Seminar team | 2021.03 ~ 2022.02 |
 | [Google Developer Student Club](https://dsc.community.dev/sookmyung-womens-university/) | 2nd Sookmyung Member | 2021.08 ~ 2022.08 |
-| [ICPC Sinchon](https://icpc-sinchon.io/) | 22 Winter Algorithm Camp | 2022.01 ~ 2022.02 |
+| [ICPC Sinchon](https://icpc-sinchon.io/) | 22 Winter Algorithm Camp Novice <br /> 23 Summer Algorithm Camp Advanced | 2022.01 ~ 2022.02 <br /> 2023.07 ~ 2023.08 |
 
 </br>
 
