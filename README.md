@@ -1,21 +1,8 @@
-<!--
-**seohyun319/seohyun319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## 🔥 Seohyun Kim 🥰   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseohyun319%2Fhit-counter&count_bg=%2345CDD0&title_bg=%23FF8394&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-- 🏰 frontend developer at [Mathpang](https://mathpang.com/) (2022.10 ~ 2023.11)
-- 🏫 Sookmyung Women's University (2019.03 ~ 2023.08)
+- 🏰 frontend developer at
+    - [POSTYPE](https://www.postype.com/) (2024.04 ~ current)
+    - [MATHPANG](https://mathpang.com/) (2022.10 ~ 2023.11) ([company github](https://github.com/seohyunPang))
+- 🏫 Sookmyung Women's University (~ 2023.08)
 - 🔬 Major
     - Korean Language and Literature
     - IT Engineering
@@ -52,19 +39,15 @@ Here are some ideas to get you started:
 </p>
 
 
-### 🏇 ****Experience****
+### 🏇 **Experience**
 
-| Name | Role | Period |
-| --- | --- | --- |
-| [PIROGRAMMING](https://pirogramming.com/) | 14th Member | 2020.12 ~ 2020.02 |
-| [PIROGRAMMING](https://pirogramming.com/) | 15th Education team | 2021.06 ~ 2021.08 |
-| [SOLUX](https://solux.tistory.com/) | 26th Mentor, Seminar team | 2021.03 ~ 2022.02 |
-| [Google Developer Student Club](https://dsc.community.dev/sookmyung-womens-university/) | 2nd Sookmyung Member | 2021.08 ~ 2022.08 |
-| [ICPC Sinchon](https://icpc-sinchon.io/) | 22 Winter Algorithm Camp Novice <br /> 23 Summer Algorithm Camp Advanced | 2022.01 ~ 2022.02 <br /> 2023.07 ~ 2023.08 |
+- [ICPC Sinchon](https://icpc-sinchon.io/) (22 Winter Algorithm Camp Novice, 23 Summer Algorithm Camp Advanced, 2022 ~ 2023)
+- [Google Developer Student Club](https://dsc.community.dev/sookmyung-womens-university/) (2nd Sookmyung Member, 2021 ~ 2022)
+- [SOLUX](https://solux.tistory.com/) (26th Mentor, Seminar team, 2021)
+- [PIROGRAMMING](https://pirogramming.com/) (14th Member, 15th Education team, 2020 ~ 2021)
+  
 
 </br>
 
-![seohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyun319&theme=radical&show_icons=true)
-
-🏰 company github [seohyunPang](https://github.com/seohyunPang) - my recent contributions
-<img src="https://ghchart.rshah.org/seohyunPang" />
+![seohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyun319&theme=radical&show_icons=true) [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seohyun319)](https://solved.ac/seohyun319)
