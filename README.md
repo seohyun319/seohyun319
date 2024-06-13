@@ -2,7 +2,7 @@
 - 🏰 frontend developer at
     - [POSTYPE](https://www.postype.com/) (2024.04 ~ current)
     - [MATHPANG](https://mathpang.com/) (2022.10 ~ 2023.11) ([company github](https://github.com/seohyunPang))
-- 🏫 Sookmyung Women's University (~ 2023.08)
+- 🏫 Sookmyung Women's University
 - 🔬 Major
     - Korean Language and Literature
     - IT Engineering
